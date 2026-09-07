@@ -1,0 +1,11 @@
+---
+title: "my-first-quarto-notebook"
+format: html
+---
+
+This document demonstrates a simple, reproducible analysis written in
+Python using Quarto.
+
+import matplotlib.pyplot as plt
+
+plt.plot([1, 2, 3], [1, 4, 9]) plt.title(“A Simple Plot”) plt.show()
