@@ -1,8 +1,6 @@
 # About Me
 My name is **Erik Chervonny**, I'm a Statistics major at [UConn](https://uconn.edu/). I was initially an electrical engineering student, but decided to switch majors in my junior year. Currently, I am a senior and am taking a variety of quantitative and humanistic courses.
 
-![A picture of me](https://media.licdn.com/dms/image/v2/D5603AQFSwQT4_Q4Zrw/profile-displayphoto-crop_800_800/B56ZsVi5jdJAAI-/0/1765593029282?e=1791417600&v=beta&t=8QDeTXaNQRxmcMBh8OHZ47UQoT6-3zdXhKZCTV3rISA)
-
 I grew up in the suburbs of New York, but enjoyed frequently travelling to Manhatten with my friends. I have worked part time jobs, with my most recent one being in graphics design.
 
 ![A picture of UConn's logo](https://thumb.wikimedia.org/wikipedia/en/thumb/5/56/University_of_Connecticut_seal.svg/330px-University_of_Connecticut_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
